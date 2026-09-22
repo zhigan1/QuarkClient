@@ -3,3 +3,6 @@ obj/
 .vs/
 *.user
 .last_success_date
+cookie.txt
+cookies.txt
+.env
